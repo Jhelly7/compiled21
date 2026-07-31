@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=9890966,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled21@job-snoopy-s01-ep05-b1/snoopy-s01-ep05-b1/hls/index.m3u8
